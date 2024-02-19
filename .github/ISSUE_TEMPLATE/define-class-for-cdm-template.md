@@ -1,7 +1,7 @@
 ---
 name: Define class for CDM template
 about: Checklist for CDM Class and Slots
-title: Checklist for Class XXX definition
+title: Checklist for XXX Class
 labels: ''
 assignees: ''
 
